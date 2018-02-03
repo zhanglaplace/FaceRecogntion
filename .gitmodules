@@ -1,0 +1,9 @@
+[submodule "tools/MTCNN_face_detection_alignment"]
+	path = tools/MTCNN_face_detection_alignment
+	url = https://github.com/kpzhang93/MTCNN_face_detection_alignment
+[submodule "tools/caffe_zf"]
+	path = tools/caffe_zf
+	url = https://github.com/zhanglaplace/Caffe-ZF
+[submodule "tools/toolbox"]
+	path = tools/toolbox
+	url = https://github.com/pdollar/toolbox
