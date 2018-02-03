@@ -1,0 +1,10 @@
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/029.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/006.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/021.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/018.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/037.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/032.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/009.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/041.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/017.jpg 0
+/home/zf/deeplearning/caffe/data/CASIA-WebFace-112X96/1001478/001.jpg 0
